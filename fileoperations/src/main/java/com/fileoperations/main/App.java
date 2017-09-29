@@ -11,5 +11,7 @@ public class App
     public static void main( String[] args )
     {
         ApplicationContext applicationContext = new ApplicationContext();
+        
+        System.out.println("hii");
     }
 }
